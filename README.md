@@ -6,7 +6,7 @@ This project analyzed the percentage of the women in the national parliaments. T
 ## Technologies
 1.Pandas (Python Library): Pandas was used for data manipulation, data cleaning of the raw file.
 
-2.Numpy (Python Library): Numpy was used for handling empty rows and <br> np.nan <br> played an important file
+2.Numpy (Python Library): Numpy was used for handling empty rows and <br> np.nan <br> played an important role
 
 3.Excel: Excel was used for controlling the data after cleaning. Colab does not allow to view all the rows/columns, therefore Excel allowed to view the data fully. If needed, <br> find&replace <br> function of excel was used
 
