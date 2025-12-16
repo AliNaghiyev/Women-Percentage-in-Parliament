@@ -1,0 +1,3 @@
+Average Women Percentage = AVERAGE(Parliamentery[Women Percentage]) /100
+
+Total Country Number = DISTINCTCOUNT(Parliamentery[Country])
