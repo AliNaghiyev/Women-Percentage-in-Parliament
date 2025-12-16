@@ -13,6 +13,8 @@ This project analyzed the percentage of the women in the national parliaments. T
 4.Power BI: Power BI was used for transforming data using power query. DAX formulations and visualizations made the report understandable. Also the slicer visualization allows the user to seelct custom columns
 
 # Results
+**The results can be viewed in (https://github.com/AliNaghiyev/Women-Percentage-in-Parliament/blob/main/Reports/Women%20Percentage%20in%20Parliament.pdf), short desciptions are below**
+
 *1: **The countries that are unicameral (has only 1 parliament) has less women in their parliament compared to bicameral** (countries that have 2 parliaments, e.g, Great Britain) with a slight difference.
 
 *2: In bicameral countries, higher parliament (chamber 2) contains more woman than chamber 1. However, the percentage is less than 30 for both of the chambers.
@@ -22,4 +24,4 @@ This project analyzed the percentage of the women in the national parliaments. T
 *4: In total, **4 countries do not have any women member in parliament**. 2 of them of South American countries (Argentina and Venesuela). Argentina is the only bicameral country that has this property.
 
 ### Important codes
-[Colab codes that are used for cleaning the data] (https://github.com/AliNaghiyev/Women-Percentage-in-Parliament/blob/main/Jupyter%20codes/Women_in_Parliament.ipynb)
+[Colab codes that are used for cleaning the data](https://github.com/AliNaghiyev/Women-Percentage-in-Parliament/blob/main/Jupyter%20codes/Women_in_Parliament.ipynb)
