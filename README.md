@@ -13,7 +13,7 @@ This project analyzed the percentage of the women in the national parliaments. T
 4.Power BI: Power BI was used for transforming data using power query. DAX formulations and visualizations made the report understandable. Also the slicer visualization allows the user to seelct custom columns
 
 # Results
-**The results can be viewed in (https://github.com/AliNaghiyev/Women-Percentage-in-Parliament/blob/main/Reports/Women%20Percentage%20in%20Parliament.pdf), short desciptions are below**
+**The results can be viewed in [Results](https://github.com/AliNaghiyev/Women-Percentage-in-Parliament/blob/main/Reports/Women%20Percentage%20in%20Parliament.pdf), short desciptions are below**
 
 *1: **The countries that are unicameral (has only 1 parliament) has less women in their parliament compared to bicameral** (countries that have 2 parliaments, e.g, Great Britain) with a slight difference.
 
